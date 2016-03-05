@@ -10,8 +10,3 @@ def sort(arr):
         arr[max_ndx] = temp
         print(max_ndx, end=' ')
     return arr
-
-with open('/home/ipatrikeev/dev/input.txt') as f:
-    f.readline()
-    values = [int(x) for x in f.readline().split()]
-    sort(values)
