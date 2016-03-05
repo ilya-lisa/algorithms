@@ -1,1 +1,1 @@
-Common data strucutres and algorithms implementations
+Common data structures and algorithms implementations
