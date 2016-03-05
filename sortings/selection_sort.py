@@ -8,5 +8,4 @@ def sort(arr):
         temp = arr[i]
         arr[i] = arr[max_ndx]
         arr[max_ndx] = temp
-        print(max_ndx, end=' ')
     return arr
